@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">See Weather</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="current_location">Manado</string>
+    <string name="date">Wednesday, 24 Sep 2023</string>
+    <string name="wind_text">Wind</string>
+    <string name="humidity_text">Humidity</string>
+    <string name="pressure_text">Pressure</string>
+    <string name="temperature">%s°C</string>
+    <string name="description">%s</string>
+    <string name="humidity">%s%%</string>
+    <string name="pressure">%s hPa</string>
+    <string name="wind_speed">%s km/h</string>
+
+</resources>
